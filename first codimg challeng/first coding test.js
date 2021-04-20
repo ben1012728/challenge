@@ -14,4 +14,5 @@ const colors = ["#1abc9c", "#3498db", "#9b59b6", "#f39c12", "#e74c3c"];
 ✅ ALL function handlers should be INSIDE of "superEventHandler"
 */
 const superEventHandler = {};
-sdadasdsa
+const title = document.getElementById("title");
+title.innerHTML = ' The mouse is here'
